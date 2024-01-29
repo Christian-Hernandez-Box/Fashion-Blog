@@ -18,4 +18,7 @@ Related Content: Lists related articles for a seamless reading experience.
 
 Clone the repository to your local machine.
 Open the index.html file in your preferred web browser to view the blog.
+
 Feel free to contribute by enhancing the HTML structure, improving styling, or adding more features to make Isa's fashion blog even more captivating.
+
+<img width="1713" alt="Screenshot 2024-01-29 at 12 32 57 AM" src="https://github.com/Christian-Hernandez-Box/Fashion-Blog/assets/118034327/c38ab445-cf2c-410b-9203-d39bb3773654">
